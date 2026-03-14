@@ -9,5 +9,3 @@ Welcome to my Machine Learning projects repository! This repo contains all the M
 - Practiced feature engineering, data preprocessing, and model evaluation techniques.
 - Developed hands-on projects to strengthen my understanding of ML concepts, from simple linear regression to classification and clustering problems.
 - Focused on improving coding skills and writing clean, reproducible ML code.
-
-## Project Structure
